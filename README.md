@@ -17,7 +17,7 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 ## Two Pointers
 | Problem | Status |
 | --- | --- | 
-| Valid Palindrome | ❌ Not Completed |
+| Valid Palindrome | ✅ Completed |
 | Two Sum II | ❌ Not Completed |
 | 3Sum | ❌ Not Completed |
 | Container with Most Water | ❌ Not Completed |
