@@ -2,9 +2,9 @@
 A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a resource.
 
 ## Array & Hashing
-| Problem | Satus |
+| Problem | Status |
 | --- | --- | 
-| Contains Duplicate | ❌ Not Completed |
+| Contains Duplicate | ✅ Completed |
 | Valid Anagram | ❌ Not Completed |
 | Two Sum | ❌ Not Completed |
 | Group Anagrams | ❌ Not Completed |
