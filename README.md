@@ -10,6 +10,6 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 | Group Anagrams | ❌ Not Completed |
 | Top K Frequent Elements | ❌ Not Completed |
 | Product of Array Except Self | ❌ Not Completed |
-| Valid Sudoku | ❌ Not Completed |
+| Valid Sudoku | ✅ Completed |
 | Encode and Decode Strings | ❌ Not Completed |
 | Longest Consecutive Sequence | ✅ Completed  |
