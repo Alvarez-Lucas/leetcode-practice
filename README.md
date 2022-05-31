@@ -27,7 +27,7 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 | Problem | Status |
 | --- | --- | 
 | Single Number | ✅ Completed |
-| Number of 1 Bits | ❌ Not Completed |
+| Number of 1 Bits | ✅ Completed |
 | Counting Bits | ❌ Not Completed |
 | Reverse Bits | ❌ Not Completed |
 | Missing Number | ❌ Not Completed |
