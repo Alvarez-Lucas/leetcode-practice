@@ -22,3 +22,14 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 | 3Sum | ❌ Not Completed |
 | Container with Most Water | ❌ Not Completed |
 | Trapping Rain Water | ❌ Not Completed |
+
+## Bit Manipulation
+| Problem | Status |
+| --- | --- | 
+| Single Number | ✅ Completed |
+| Number of 1 Bits | ❌ Not Completed |
+| Counting Bits | ❌ Not Completed |
+| Reverse Bits | ❌ Not Completed |
+| Missing Number | ❌ Not Completed |
+| Sum of Two Integers | ❌ Not Completed |
+| Reverse Integer | ❌ Not Completed |
