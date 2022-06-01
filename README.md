@@ -5,7 +5,7 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 | Problem | Status |
 | --- | --- | 
 | Contains Duplicate | ✅ Completed |
-| Valid Anagram | ❌ Not Completed |
+| Valid Anagram | ✅ Completed |
 | Two Sum | ❌ Not Completed |
 | Group Anagrams | ❌ Not Completed |
 | Top K Frequent Elements | ❌ Not Completed |
