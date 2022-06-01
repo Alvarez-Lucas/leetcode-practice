@@ -6,7 +6,7 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 | --- | --- | 
 | Contains Duplicate | ✅ Completed |
 | Valid Anagram | ✅ Completed |
-| Two Sum | ❌ Not Completed |
+| Two Sum | 🚧 Need to review source |
 | Group Anagrams | ❌ Not Completed |
 | Top K Frequent Elements | ❌ Not Completed |
 | Product of Array Except Self | ❌ Not Completed |
