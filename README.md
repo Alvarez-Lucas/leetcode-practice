@@ -8,7 +8,7 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 | Valid Anagram | ✅ Completed |
 | Two Sum | 🚧 Need to review source |
 | Group Anagrams | ✅ Completed |
-| Top K Frequent Elements | ❌ Not Completed |
+| Top K Frequent Elements | ✅ Completed |
 | Product of Array Except Self | ❌ Not Completed |
 | Valid Sudoku | ✅ Completed |
 | Encode and Decode Strings | ❌ Not Completed |
