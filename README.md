@@ -20,7 +20,7 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 | Valid Palindrome | ✅ Completed |
 | Two Sum II | ✅ Completed |
 | 3Sum | ✅ Completed |
-| Container with Most Water | ❌ Not Completed |
+| Container with Most Water | ✅ Completed |
 | Trapping Rain Water | ❌ Not Completed |
 
 ## Bit Manipulation
