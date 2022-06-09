@@ -23,6 +23,17 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 | Container with Most Water | ✅ Completed |
 | Trapping Rain Water | ❌ Not Completed |
 
+## Stack
+| Problem | Status |
+| --- | --- | 
+| Valid Parentheses | ✅ Completed |
+| Min Stack | ❌ Not Completed |
+| Evaluate Reverse Polish Notation | ❌ Not Completed |
+| Generate Parentheses | ❌ Not Completed |
+| Daily Temperatures | ❌ Not Completed |
+| Car Fleet | ❌ Not Completed |
+| Largest Rectangle in Histogram | ❌ Not Completed |
+
 ## Bit Manipulation
 | Problem | Status |
 | --- | --- | 
