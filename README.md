@@ -28,7 +28,7 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 | --- | --- | 
 | Valid Parentheses | ✅ Completed |
 | Min Stack | ✅ Completed |
-| Evaluate Reverse Polish Notation | ❌ Not Completed |
+| Evaluate Reverse Polish Notation | ✅ Not Completed |
 | Generate Parentheses | ❌ Not Completed |
 | Daily Temperatures | ❌ Not Completed |
 | Car Fleet | ❌ Not Completed |
