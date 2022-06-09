@@ -1,5 +1,5 @@
 # Leetcode Practice
-A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a resource.
+A monorepo to store leetcode practice problems. Using https://neetcode.io/ as a resource.
 
 ## Array & Hashing
 | Problem | Status |
@@ -30,7 +30,7 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 | Min Stack | ✅ Completed |
 | Evaluate Reverse Polish Notation | ✅ Not Completed |
 | Generate Parentheses | ❌ Not Completed |
-| Daily Temperatures | ❌ Not Completed |
+| Daily Temperatures | 🚧 Need to review source |
 | Car Fleet | ❌ Not Completed |
 | Largest Rectangle in Histogram | ❌ Not Completed |
 
