@@ -1,6 +1,3 @@
-from re import I
-
-
 class Solution:
     # My initial solution
     def isAnagramInit(self, s: str, t: str) -> bool:
@@ -24,10 +21,11 @@ class Solution:
         countS, countT = {}, {}
         for charS, charT in zip(s, t):
             countS[charS] = 1 + countS.get(charS, 0)
-            countT[charT] = 1 + countS.get(charT, 0)
+            countT[charT] = 1 + countT.get(charT, 0)
         for key in countS:
             if countS[key] != countT.get(key, 0):
                 return False
+        return True
 
 
 def main():

@@ -1,3 +1,5 @@
+from typing import List
+
 board = [
     ["5", "3", ".", ".", "7", ".", ".", ".", "."],
     ["6", ".", ".", "1", "9", "5", ".", ".", "."],
@@ -33,36 +35,43 @@ board3 = [
 ]
 
 
-def isValidSudoku(board):
-    for row in board:
-        x = set()
-        for element in row:
-            if element != "." and element in x:
-                return False
-            else:
-                x.add(element)
-    for i in range(len(board[0])):
-        x = set()
+class Solution:
+    def isValidSudoku(self, board: List[List[str]]) -> bool:
         for row in board:
-            if row[i] != "." and row[i] in x:
-                return False
-            else:
-                x.add(row[i])
-    for x in range(0, 9, 3):
-        for y in range(0, 9, 3):
-            map = set()
-            for inner_x in range(x, x + 3):
-                for inner_y in range(y, y + 3):
-                    if (
-                        board[inner_x][inner_y] != "."
-                        and board[inner_x][inner_y] in map
-                    ):
-                        return False
-                    else:
-                        map.add(board[inner_x][inner_y])
-    return True
+            x = set()
+            for element in row:
+                if element != "." and element in x:
+                    return False
+                else:
+                    x.add(element)
+        for i in range(len(board[0])):
+            x = set()
+            for row in board:
+                if row[i] != "." and row[i] in x:
+                    return False
+                else:
+                    x.add(row[i])
+        for x in range(0, 9, 3):
+            for y in range(0, 9, 3):
+                map = set()
+                for inner_x in range(x, x + 3):
+                    for inner_y in range(y, y + 3):
+                        if (
+                            board[inner_x][inner_y] != "."
+                            and board[inner_x][inner_y] in map
+                        ):
+                            return False
+                        else:
+                            map.add(board[inner_x][inner_y])
+        return True
 
 
-print(isValidSudoku(board))
-print(isValidSudoku(board2))
-print(isValidSudoku(board3))
+def main():
+    test = Solution()
+    print(test.isValidSudoku(board))
+    print(test.isValidSudoku(board2))
+    print(test.isValidSudoku(board3))
+
+
+if __name__ == "__main__":
+    main()

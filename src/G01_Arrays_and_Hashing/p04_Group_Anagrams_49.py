@@ -10,7 +10,7 @@ class Solution:
         for word in strs:
             key = str(sorted(word))
             results[key].append(word)
-        return results.values()
+        return [val for val in reversed(results.values())]
 
     # other solution, count the numbers of each letter,
     # map it to a list where the index is the asci value (adjusted)
