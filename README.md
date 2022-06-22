@@ -84,7 +84,7 @@ Using <https://neetcode.io/> as a resource.
 
 | Problem | Status |
 |---|---|
-|   |   |
+| Reverse Linked List | ✅ Completed |
 
 ## Trees
 
